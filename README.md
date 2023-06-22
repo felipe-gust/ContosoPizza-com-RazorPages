@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<h1>Contoso Pizza (Razor Pages)</h1> 
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<h1>Aplicativo Web multiplataforma do Razor Pages no ASP.NET Core, usando .NET e C#.</h1> 
+Aplicativo Web multiplataforma do Razor Pages no ASP.NET Core, usando .NET e C#.
 
 <hr>
 
